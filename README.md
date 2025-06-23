@@ -1,4 +1,4 @@
-Capstone_Project_Healthcare
+Predictive Modeling of CMS Hospital Star Ratings
 
 Objective
 
